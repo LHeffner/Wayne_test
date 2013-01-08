@@ -7,7 +7,7 @@ body{
     padding: 30px;
 }
 h1, h2, h3, h4 {
-    color: #111111;
+    color: #FF00FF;
     font-weight: 400;
 }
 h1, h2, h3, h4, h5, p {
@@ -31,7 +31,7 @@ h5 {
     font-size: 18px;
 }
 a {
-    color: #0099ff;
+    color: #FF00FF;
     margin: 0;
     padding: 0;
     vertical-align: baseline;
@@ -68,7 +68,7 @@ blockquote {
     max-width: 476px;
 }
 blockquote p {
-    color: #666;
+    color: #FF00FF;
     max-width: 460px;
 }
 hr {
