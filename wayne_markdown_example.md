@@ -1,12 +1,16 @@
 <link href="wayne_test.css" rel="stylesheet"></link>
 
+#This is Wayne's Test Site
+**Respect** this site.
+
+The following has been taken from [here](http://kevinburke.bitbucket.org/markdowncss/index.md).
+
 
 # Let's make the Web prettier.
 
 Markdown.css is better default styling for your Markdown files. It's heavily
 inspired by the [Space](http://getspace.org) WordPress theme. This page is
-itself a Markdown file using the `markdown.css` stylesheet. View the source
-code [here](http://kevinburke.bitbucket.org/markdowncss/index.md).
+itself a Markdown file using the `markdown.css` stylesheet. 
 
 ### Sample File
 
